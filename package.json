@@ -1,6 +1,6 @@
 {
   "name": "tagcord",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "A tag-based Discord bot framework built on top of Discord.js",
   "main": "src/TagcordClient.js",
   "keywords": [
