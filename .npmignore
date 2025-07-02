@@ -1,0 +1,7 @@
+# .npmignore
+examples/
+.env
+.vscode/
+.gitignore
+README.md
+LICENSE

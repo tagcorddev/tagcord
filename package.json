@@ -15,5 +15,8 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/tagcorddev/tagcord"
+  },
+  "dependencies": {
+    "tagcord": "github:tagcorddev/tagcord"
   }
 }
